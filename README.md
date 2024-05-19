@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pics.craiyon.com/2023-09-28/4d8ef70640bc4ae79d45c5d59bd49a39.webp" alt="MasterHead" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  <img src="https://pics.craiyon.com/2023-09-28/4d8ef70640bc4ae79d45c5d59bd49a39.webp" alt="MasterHead" width="500" height="400" style="border: 2px solid black; border-radius: 10px;">
 
   <h1>Hi 👋, I'm Gourab Dey</h1>
   <h3>A passionate frontend developer from India</h3>
