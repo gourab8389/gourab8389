@@ -84,5 +84,5 @@
   <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gourab8389&show_icons=true&locale=en" alt="gourab8389" />
   </p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourab8389&theme=dark" alt="gourab8389" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourab8389&theme=light" alt="gourab8389" /></p>
 </div>
