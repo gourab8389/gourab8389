@@ -14,13 +14,14 @@
     </a>
   </p>
   
-  <p>🔭 I’m currently working on Smart Authentication System</p>
-  <p>🌱 I’m currently learning Next.js</p>
+  <p>🔭 I’m currently working on AI based Project</p>
+  <p>🌱 I’m currently working of freelancing and Organized Project</p>
   <p>👯 I’m looking to collaborate on AI Image Generator</p>
-  <p>🤝 I’m looking for help with Content Generator</p>
-  <p>👨‍💻 All of my projects are available at <a href="https://gourab.exions.xyz/">gourab.exions.xyz</a></p>
-  <p>📝 I regularly write articles on <a href="https://portfolio-gourab-green.vercel.app/">portfolio-gourab-green.vercel.app</a></p>
-  <p>💬 Ask me about JavaScript, React, Java, DSA, DBMS</p>
+  <p>🤝 I’m looking for help with Content Generator <a href="quill-ai-bz5w.vercel.app">quill-ai-bz5w.vercel.app</a></p>
+  <p>🤝 Want to join Real-time collaborative notebook <a href="swift-ping.vercel.app">swift-ping.vercel.app</a></p>
+  <p>👨‍💻 All of my projects are available at <a href="my-folio-delta.vercel.app">my-folio-delta.vercel.app</a></p>
+  <p>📝 I regularly write articles on <a href="my-folio-delta.vercel.app">my-folio-delta.vercel.app</a></p>
+  <p>💬 Ask me about JavaScript, React, Next.Js, Java, DSA, DBMS, Operating System</p>
   <p>📫 How to reach me: <a href="mailto:deyg6988@gmail.com">deyg6988@gmail.com</a></p>
   
   <h3>Connect with me:</h3>
