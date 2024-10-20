@@ -1,99 +1,59 @@
 <div align="center">
-  <img src="https://pics.craiyon.com/2023-09-28/4d8ef70640bc4ae79d45c5d59bd49a39.webp" alt="MasterHead" width="500" height="400" style="border: 2px solid black; border-radius: 10px;">
-  
-  <h1>Hi 👋, I'm Gourab Dey</h1>
-  <h3>A passionate frontend developer from India</h3>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=gourab8389&label=Profile%20views&color=0e75b6&style=flat" alt="gourab8389" />
-  </p>
-  
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=gourab8389&theme=onedark" alt="gourab8389" />
-    </a>
-  </p>
-  
-  <p>🔭 I’m currently working on AI based Project</p>
-  <p>🌱 I’m currently working of freelancing and Organized Project</p>
-  <p>👯 I’m looking to collaborate on AI Image Generator</p>
-  <p>🤝 I’m looking for help with Content Generator <a href="quill-ai-bz5w.vercel.app">quill-ai-bz5w.vercel.app</a></p>
-  <p>🤝 Want to join Real-time collaborative notebook <a href="swift-ping.vercel.app">swift-ping.vercel.app</a></p>
-  <p>👨‍💻 All of my projects are available at <a href="my-folio-delta.vercel.app">my-folio-delta.vercel.app</a></p>
-  <p>📝 I regularly write articles on <a href="my-folio-delta.vercel.app">my-folio-delta.vercel.app</a></p>
-  <p>💬 Ask me about JavaScript, React, Next.Js, Java, DSA, DBMS, Operating System</p>
-  <p>📫 How to reach me: <a href="mailto:deyg6988@gmail.com">deyg6988@gmail.com</a></p>
-  
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/gourab-dey-1b2b8928a/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100050166159043" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/gourab486/?hl=en" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-  </p>
-  
-  <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="mailto:deyg6988@gmail.com"><img src="https://img.shields.io/badge/Email-deyg6988%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://my-folio-delta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View%20Work-green?style=for-the-badge&logo=vercel"></a>
+  <img src="https://komarev.com/ghpvc/?username=gourab8389&style=for-the-badge&color=blueviolet" alt="profile-views">
+</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+🚀 Currently Working On
 
-  <h3>GitHub Stats:</h3>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourab8389&show_icons=true&locale=en&layout=compact&theme=onedark" alt="gourab8389" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gourab8389&show_icons=true&locale=en&theme=onedark" alt="gourab8389" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourab8389&theme=onedark" alt="gourab8389" />
-  </p>
+AI-based Projects
+Freelancing and Project Organization
+AI Image Generator collaboration
+
+🎯 Featured Projects
+
+Content Generator
+Real-time Collaborative Notebook
+Portfolio
+
+💬 Ask Me About
+JavaScript React Next.js Java DSA DBMS Operating Systems
+🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,matlab" />
+</p>
+📈 Activity Graph
+⚡ Stats
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gourab8389&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gourab8389&theme=tokyonight&utcOffset=8" />
+      </a>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gourab8389&theme=tokyonight" />
+</p>
+🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/gourab-dey-1b2b8928a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100050166159043">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gourab486/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 </div>
