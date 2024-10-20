@@ -30,9 +30,7 @@ JavaScript React Next.js Java DSA DBMS Operating Systems
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gourab8389&theme=tokyonight" />
-      </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gourab8389&theme=tokyonight" alt="GitHub Streak" /></a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
