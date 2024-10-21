@@ -23,7 +23,7 @@ JavaScript React Next.js Java DSA DBMS Operating Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,typescript,java" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,matlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,c, java" />
 </p>
 📈 Activity Graph
 ⚡ Stats
