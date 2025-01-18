@@ -17,7 +17,7 @@
     <h2>🎯 Featured Projects</h2>
     
     - Content Generator
-    - Real-time Collaborative Notebook
+    - Innofusion 2.0 hackathon website
     - Portfolio
     
     <h2>💬 Ask Me About</h2>
