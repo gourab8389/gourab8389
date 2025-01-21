@@ -38,9 +38,9 @@
 
 <table align="center">
   <tr>
-<!--     <td>
+    <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourab8389&theme=tokyonight" alt="gourab" />
-    </td> -->
+    </td>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gourab8389&theme=tokyonight&utcOffset=8" />
     </td>
