@@ -12,7 +12,6 @@
     
     - AI-based Projects
     - Freelancing and Project Organization
-    - AI Image Generator collaboration
     
     <h2>🎯 Featured Projects</h2>
     
